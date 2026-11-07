@@ -19,7 +19,7 @@ I build REST APIs with Java and Spring Boot, and I like finding out how networks
 ## 📫 Find me
 
 - 📝 Blog: [dynamicbytes.blog](https://dynamicbytes.blog)
-- 🐦 X: [@thatone_gremlin](https://x.com/thatone_gremlin)
+- 🐦 X: [@The Tech Bro](https://x.com/070_laanre)
 <!--
 **small-python/small-python** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
