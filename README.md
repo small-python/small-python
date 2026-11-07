@@ -7,8 +7,11 @@
 I build REST APIs with Java and Spring Boot, and I like finding out how networks work, and how they break. Open to backend developer roles.
 
 ## 🛠 Tech stack
-
+<div align="center">
+  
 ![Tech stack](https://skillicons.dev/icons?i=java,spring,postgres,docker,git,linux,idea,postman)
+
+</div>
 
 ## 🌱 Currently
 
